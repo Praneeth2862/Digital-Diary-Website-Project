@@ -1,0 +1,315 @@
+*{
+    padding:0;
+    margin:0;
+}
+.bg{
+    position: absolute;
+    width:100%;
+    background-image: url("banner.jpg");
+    background-position:center ;
+    background-size: cover;
+    filter: blur(5px);
+    height:100vh;
+    z-index:-1
+}
+section{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width:100%;
+    height:100vh;
+}
+.main{
+    position:relative;
+    width:90vw;
+    height:80vh;
+    background-image: url("banner.jpg");
+    background-position:center ;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border:2px solid;
+
+}
+.content{
+    position:relative;
+    height:400px;
+    width:700px;
+    margin-right: 50px;
+}
+.content h2{
+    font-family: cursive;
+    font-weight: bold;
+    margin-left: 30px;
+    position:relative;
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+.content h2 span{
+    color:Red;
+}
+.content h3{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-family: sans-serif;
+}
+.content button{
+    margin-left: 50px;
+    margin-top: 5px;
+    padding: 10px 15px;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+.content button:hover{
+    background-color: black;
+    color: white;
+}
+.content p{
+    margin-top:30px;
+    margin-left: 50px;
+    font-family: cursive;
+    position:relative;
+    font-size:1.3em;
+    font-weight: bold;
+}
+.login-box{
+    background:transparent;
+    height:200px;
+    width:300px;
+    padding:8% 5%;
+    border: 2px solid;
+    position:relative;
+}
+.login-heading{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100px;
+    border-bottom: 2px solid;
+}
+.login-heading h2{
+    margin-top:20px;
+    font-family: cursive;
+    text-align: center;
+    font-size: 2em;
+}
+.login-error{
+    position: relative;
+    width:100%;
+    height:30px;
+    text-align: center;
+    color: red;
+}
+.input-box input{
+    background:transparent;
+    width:100%;
+    padding:8px 8px;
+    margin-top:20px;
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid;
+    font-size: 1.2em;
+    font-family: cursive;
+}
+.input-box input::placeholder{
+    color:rgba(0, 0, 0, 0.429);
+    font-weight: normal;
+}
+.input-checkbox{
+    margin-top: 20px;
+}
+.input-checkbox label{
+    font-size: 1.01em;
+}
+.input-submit{
+    position: relative;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.input-submit input{
+    width:100%;
+    padding:8px 10px;
+    font-size:20px;
+    border-radius: 10px;
+    background: transparent;
+    transition: 0.2s;
+    cursor: pointer;
+}
+.input-submit input:hover{
+    background-color: black;
+    color:white;
+}
+.login-box a{
+    text-decoration: none;
+    color: black;
+}
+.login-box a:hover{
+text-decoration: underline;
+}
+/**---------Registration----------**/
+section.registration{
+    position: relative;
+    width:100%;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.regform{
+    background:transparent;
+    width:30vh;
+    height:80vh;
+    border:2px solid;
+    border-radius: 10px;
+    padding:30px 60px;
+}
+.Registration-heading{
+    width:100%;
+    margin-bottom:30px;
+}
+.Registration-heading h2{
+    text-align: center;
+    font-size: 2em;
+    font-family: cursive;
+}
+.reg-input label{
+    width:100%;
+    font-size:1em;
+    font-family: cursive;
+}
+.reg-input input{
+    background:transparent;
+    width:100%;
+    margin-top: 5px;
+    margin-bottom:20px;
+    padding:5px 3px 5px 3px;
+    font-family: cursive;
+    border-top: none;
+    border-left: none;
+    border-right:none;
+}
+.birthday-input label{
+    width:100%;
+    font-size:1em;
+    font-family: cursive;
+}
+.birthday-input{
+    margin-bottom:10px;
+}
+.security-question{
+    width:100%;
+    font-size:1em;
+    font-family: cursive;
+    margin-bottom: 10px;
+}
+.security-question select option{
+    width:100%;
+    font-size:1em;
+    font-family: cursive;
+}
+.reg-submit input{
+    width:100%;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-size: 1em;
+    font-family: cursive;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s ;
+    margin-bottom: 10px;
+}
+.reg-submit input:hover{
+    background-color: black;
+    color:white;
+}
+.regform a{
+    text-decoration: none;
+    
+}
+/**************Welcome*********************/
+.welcome-img{
+    width:100%;
+    height:100vh;
+    background-image: url("welcome.jpg");
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+.welcome-content{
+    position: relative;
+    width:100%;
+    height: 100vh;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.content-box{
+    height:70vh;
+    width:40vh;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 5% 5%;
+    border-radius: 15px;
+}.content-box h2{
+    position:absolute;
+    top:20%;
+    font-size: 3em;
+    font-family: cursive;
+}
+.content-box h2 span{
+    color: red;
+}
+.content-box button{
+    border: 2px solid;
+    width:100%;
+    padding: 10px 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    font-family: cursive;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    transition: 0.2s;
+}
+.content-box button.signout{
+    width:50%;
+}
+.content-box button.signout:hover{
+    color:white;
+    background-color: grey;
+}
+.content-box button:hover{
+    color: white;
+    background-color: black;
+}
+
+/**PAst Entries******/
+
+
+section.pastentries{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    height:100vh;
+    background-image: url("wood.jpg");
+    background-position: center;
+    background-size: cover;
+    z-index: 1;
+}
+.table-content{
+    width:40%;
+    height:40vh;
+}
+/*********View Page***********/
+
+
