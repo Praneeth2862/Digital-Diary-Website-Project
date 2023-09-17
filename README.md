@@ -3,19 +3,25 @@
 Digital Diary is a web-based diary application that allows users to create, manage, and store their daily diary entries. This README provides an overview of its features and how to use them.
 
 #Login Page
-![Uploading Screenshot 2023-05-07 192108.png…]()
+![image](![Screenshot 2023-05-07 192108](https://github.com/Praneeth2862/Digital-Diary-Website-Project/assets/95529324/5458a8a2-c840-4579-9bf3-0660569eed6a)
+)
 
 #Registration page
-![Uploading Screenshot 2023-05-07 192302.png…]()
+![image 2](![Screenshot 2023-05-07 192302](https://github.com/Praneeth2862/Digital-Diary-Website-Project/assets/95529324/cf52ac5c-9771-406f-9113-e8ab12d2a495)
+)
 
 #Welcome Page
-![Uploading Screenshot 2023-05-07 192408.png…]()
+![image 3](![Uploading Screenshot 2023-05-07 192408.png…])
+
 #Entry PAge
-![Uploading Screenshot 2023-05-07 192526.png…]()
+![image 4](![Uploading Screenshot 2023-05-07 192526.png…])
+
 #Total entries view page
-![Uploading Screenshot 2023-05-07 192703.png…]()
+![image 5](![Uploading Screenshot 2023-05-07 192703.png…])
+
 #View Entry page
-![Uploading Screenshot 2023-05-07 192743.png…]()
+![image 6](![Uploading Screenshot 2023-05-07 192743.png…])
+
 
 
 
