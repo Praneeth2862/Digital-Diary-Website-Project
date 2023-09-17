@@ -1,4 +1,4 @@
-# Digital Diary
+![Screenshot 2023-05-07 192703](https://github.com/Praneeth2862/Digital-Diary-Website-Project/assets/95529324/2dad28a7-da30-4fe8-aeae-b757824fac76)![Screenshot 2023-05-07 192743](https://github.com/Praneeth2862/Digital-Diary-Website-Project/assets/95529324/09ee75c3-49d5-41c0-8e2e-f6b715323634)![Screenshot 2023-05-07 192526](https://github.com/Praneeth2862/Digital-Diary-Website-Project/assets/95529324/192c0f92-fe26-4ce8-9dec-d3ce3d1652ca)# Digital Diary
 
 Digital Diary is a web-based diary application that allows users to create, manage, and store their daily diary entries. This README provides an overview of its features and how to use them.
 
@@ -11,16 +11,23 @@ Digital Diary is a web-based diary application that allows users to create, mana
 )
 
 #Welcome Page
-![image 3](![Uploading Screenshot 2023-05-07 192408.png…])
+![Digital Diary Screenshot ](![Screenshot 2023-05-07 192408](https://github.com/Praneeth2862/Digital-Diary-Website-Project/assets/95529324/a1701752-dfa2-47a4-a21b-4e072c74ebaf)
+)
 
 #Entry PAge
-![image 4](![Uploading Screenshot 2023-05-07 192526.png…])
+![Screenshot 2023-05-07 192526](https://github.com/Praneeth2862/Digital-Diary-Website-Project/assets/95529324/dbd34295-5920-4153-9676-dc19430a14f7)
+
 
 #Total entries view page
-![image 5](![Uploading Screenshot 2023-05-07 192703.png…])
+![Screenshot 2023-05-07 192703](https://github.com/Praneeth2862/Digital-Diary-Website-Project/assets/95529324/cb851fdb-1fd8-47ff-a814-df9a351e6faa)
+
+
 
 #View Entry page
-![image 6](![Uploading Screenshot 2023-05-07 192743.png…])
+![Uploading Screenshot 2023-05-07 192743.png…]()
+
+
+
 
 
 
@@ -77,9 +84,9 @@ To get started with Digital Diary, follow these steps:
 
 2. **Login**: Log in with your registered credentials to access your diary.
 
-3. **Create Diary Entry**: Click on the "Create Entry" option to add a new diary entry. Fill in the title, date, and content.
+3. **Create Diary Entry**: Click on the "new Entry" option to add a new diary entry. Fill in the title, date, and content.
 
-4. **View Diary Entries**: Click on the "View Entries" option to see your saved diary entries.
+4. **View Diary Entries**: Click on the "past Entries" option to see your saved diary entries.
 
 5. **Edit Diary Entry**: If needed, click on an entry to edit its content or details.
 
